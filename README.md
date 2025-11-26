@@ -84,9 +84,7 @@ Contact Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/xoliswa-sibanyoni
 
-🐙 GitHub: within.com/XoliswaS
-
-
+🐙 GitHub: https://github.com/XoliswaS
 
 🌱 
 Let’s Connect!

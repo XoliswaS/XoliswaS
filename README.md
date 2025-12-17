@@ -67,8 +67,7 @@ DevOps Concepts (CI/CD, Automation, etc.)
 📚 
 What I’m Learning Right Now
 AWS Cloud Practitioner
-
-Linux command line
+Linux and how to launch labs
 
 DevOps fundamentals
 

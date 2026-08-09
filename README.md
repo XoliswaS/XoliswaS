@@ -1,94 +1,93 @@
 
-🌟 Hi, I’m Xoliswa
+# 🌟 Hi, I'm Xoliswa Sibanyoni
 
+### 🚀 Aspiring Cloud & DevOps Engineer | Cloud Enthusiast | Tech Learner
 
-🚀 
-Aspiring Cloud & DevOps Engineer | AWS Re/Start Student | Tech Enthusiast
+I'm an aspiring **Cloud & DevOps Engineer** passionate about cloud technologies, automation, and building practical solutions.
 
+I recently completed the **AWS re/Start program**, where I developed foundational knowledge and hands-on experience in cloud computing, Linux, networking, security, databases, Python, and AWS architecture.
 
-I’m currently studying AWS Re/Start Cloud Practitioner, where I’m learning the foundations of cloud computing, Linux, networking, security, and more.
+I'm also interested in **AI, automation, DevOps, and modern cloud technologies**, and I continuously work on projects and learning opportunities that help me grow my technical skills.
 
-I’m also very interested in AI, automation, and modern DevOps tools.
+---
 
+## 🌐 About Me
 
+- ☁️ Completed the **AWS re/Start program**
+- 🏆 Successfully passed my **AWS exam**
+- 💡 Interested in Cloud Computing, DevOps, AI, and Automation
+- 🐧 Developing my Linux and cloud infrastructure skills
+- 🔧 Interested in automation, infrastructure, and system reliability
+- 👩🏾‍💻 Passionate about learning and building practical projects
+- 🎯 Goal: Become a **Cloud Engineer / DevOps Engineer**
 
-I’m working hard toward becoming a Cloud Engineer or DevOps Engineer because I enjoy solving problems, building efficient systems, and understanding how technology works behind the scenes.
+---
 
-🌐 
-About Me
-🔭 Currently studying AWS Re/Start Cloud Practitioner
+## 🧠 Skills & Technologies
 
-💡 Interested in AI, automation, and cloud technologies
+### ☁️ Cloud
 
-☁️ Passionate about DevOps, cloud infrastructure, and improving system reliability
+- AWS
+- EC2
+- S3
+- IAM
+- Cloud Architecture
+- Cloud Security
 
-👨‍💻 I love learning and building projects that help me grow in tech
+### 🖥️ Programming & Scripting
 
-🎯 Goal: Become a DevOps Engineer or Cloud Engineer
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
 
-🧠 
-Skills & Technologies
+### ⚙️ DevOps & Infrastructure
 
+- Linux
+- Git & GitHub
+- Networking
+- CI/CD
+- Automation
+- DevOps Fundamentals
 
-🌍 
-Web Development
-HTML
+---
 
-CSS
+## 📚 Currently Learning & Exploring
 
-JavaScript
+- ☁️ Cloud Engineering
+- ⚙️ DevOps
+- 🤖 AI & Automation
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🏗️ Infrastructure as Code
+- 🔐 Cloud Security
+- 📊 Monitoring & System Reliability
 
+---
 
+## 🚀 What You'll Find Here
 
-🖥️ 
-Programming / Scripting
-Basic Java
+This GitHub contains my learning journey, projects, practical work, and technical documentation.
 
-Basic Python 
+📁 **Cloud & AWS Projects**
+📁 **DevOps Projects**
+📁 **Hands-on Labs**
+📁 **Certifications & Achievements**
+📁 **Technical Documentation**
 
+---
 
+## 🎯 My Goal
 
-☁️ 
-Cloud & DevOps (In Progress)
-AWS Fundamentals
+To become a skilled **Cloud & DevOps Engineer** by continuously learning, building real-world projects, and developing practical experience with modern cloud and DevOps technologies.
 
-EC2, S3, IAM
+---
 
-Linux Basics
-
-Networking Basics
-
-Security Foundations
-
-Git + GitHub
-
-DevOps Concepts (CI/CD, Automation, etc.)
-
-📚 
-What I’m Learning Right Now
-AWS Cloud Practitioner
-Linux and how to launch labs
-
-DevOps fundamentals
-
-AWS compute, storage, and security
-
-How to build real cloud projects
-
-🔗 
-Contact Me
-
-
+## 🔗 Connect With Me
 📧 Email: xoliswasibanyoni45@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/xoliswa-sibanyoni
 
 🐙 GitHub: https://github.com/XoliswaS
 
-🌱 
-Let’s Connect!
-
-
-I’m always open to learning, collaborating, and connecting with people in the tech community.
-
-Feel free to reach out or check out my repositories

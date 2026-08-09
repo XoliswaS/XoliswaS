@@ -5,7 +5,7 @@
 
 I'm an aspiring **Cloud & DevOps Engineer** passionate about cloud technologies, automation, and building practical solutions.
 
-I recently completed the **AWS re/Start program**, where I developed foundational knowledge and hands-on experience in cloud computing, Linux, networking, security, databases, Python, and AWS architecture.
+I completed the **AWS re/Start program**, where I developed foundational knowledge and hands-on experience in cloud computing, Linux, networking, security, databases, Python, and AWS architecture.
 
 I'm also interested in **AI, automation, DevOps, and modern cloud technologies**, and I continuously work on projects and learning opportunities that help me grow my technical skills.
 
